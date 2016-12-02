@@ -1,0 +1,7 @@
+cleverbot/__init__.py
+cleverbot/cleverbot.py
+cleverbot.egg-info/PKG-INFO
+cleverbot.egg-info/SOURCES.txt
+cleverbot.egg-info/dependency_links.txt
+cleverbot.egg-info/requires.txt
+cleverbot.egg-info/top_level.txt

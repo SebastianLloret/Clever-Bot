@@ -1,0 +1,10 @@
+../cleverbot/__init__.py
+../cleverbot/cleverbot.py
+../cleverbot/__init__.pyc
+../cleverbot/cleverbot.pyc
+./
+PKG-INFO
+SOURCES.txt
+dependency_links.txt
+requires.txt
+top_level.txt
