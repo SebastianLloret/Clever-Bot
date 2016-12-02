@@ -56,6 +56,3 @@ def lambda_handler(event, context):
         elif event["request"]["intent"]["name"] == "AMAZON.StopIntent":
             # End the session
             return build_response(session_attributes, build_speechlet_response("Conversation Log", "Goodbye!", "stop", "", True))
-
-if __name__ == "__main__":
-    return True
